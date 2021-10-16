@@ -5,7 +5,7 @@ li {
 }
 
 button:hover {
-    background-color: rgba(0, 136, 169, 0.8);
+    background-color: #993333;
 }
 
 a {
@@ -33,13 +33,13 @@ a:hover {
 }
 
 input[type=submit]:hover {
-    background-color: darkblue;
+    background-color: #993333;
 }
 
 input[type=submit] {
     width: 50%;
     height: 80px;
-    background-color: blue;
+    background-color: #cc0000;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -85,7 +85,7 @@ select {
     background-color: #F6F6F6;
     font-weight: 900;
     font-size: 96px;
-    color: #0F5EEA;
+    color: #cc0000;
     padding: 20px 20px 10px 20px;
     line-height: 1;
     border-radius: 10px;
